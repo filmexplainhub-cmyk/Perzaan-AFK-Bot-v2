@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "BROMZEBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ZYREWMCS1.aternos.me",
-    "port": 32362,
+    "ip": "_TOKEN_SMP_S1.aternos.me",
+    "port": 45807,
     "version": "1.21.1"
   },
   "position": {
